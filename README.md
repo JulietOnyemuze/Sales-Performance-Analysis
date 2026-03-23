@@ -48,7 +48,7 @@ The Sales Manager requested for visual dashboards and improved sales reporting t
 ## Key Findings
 
 - Total Sales: $22.24M, exceeded the $21.1M budget by approximately $1.14M (5.4% above target).
-- Bikes dominate at 95%** of revenue, with Accessories and Clothing making up the remainder 
+- Bikes dominate at 95% of revenue, with Accessories and Clothing making up the remainder 
 - Mountain-200 and Road-250 variants are the top-performing product lines, consistently leading in monthly sales.
 - Sales trend upwardthrough the year, with the strongest months in Q4.
 - Geographic sales concentration is primarily led by London (Europe)
